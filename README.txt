@@ -1,7 +1,8 @@
-Initial Commit
+Well, its a class for Intersystems Cache that sends a Tweet to Twitter. 
 
-Well, its a class for Intersystems Cache that sends a Tweet to Twitter.  To me,
-its awesomeness is in its simplicity.
+Useful?  You decide.
 
-GAR
 
+Cheers and Happy Tweeting!
+
+ron dot sweeney at gmail dot com
